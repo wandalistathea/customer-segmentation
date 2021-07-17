@@ -5,6 +5,6 @@ Fitur/variabel di dalamnya adalah ID customer, usia, gender, pendapatan tahunan,
 
 Customer segmentation ini menggunakan metode K-Means dari Non Hierarchical Clustering dan Agglomerative dari Hierarchical Clustering dengan jumlah cluster yang didapatkan adalah sebanyak 5.
 
-Terdapat artikel yang saya buat \n
-Clustering menggunakan KMeans: https://wandalistathea.medium.com/customer-segmentation-menggunakan-k-means-clustering-python-8ad3fe1b9cb2
-Clustering menggunakan Agglomerative: https://wandalistathea.medium.com/customer-segmentation-menggunakan-agglomerative-clustering-python-98242fb6c488
+Terdapat artikel yang saya buat
+- Clustering menggunakan KMeans: https://wandalistathea.medium.com/customer-segmentation-menggunakan-k-means-clustering-python-8ad3fe1b9cb2
+- Clustering menggunakan Agglomerative: https://wandalistathea.medium.com/customer-segmentation-menggunakan-agglomerative-clustering-python-98242fb6c488
